@@ -4,8 +4,8 @@ This repository holds the MATLAB code behind the paper of this title by Özgür 
 
 Plasticity, a trait's responsiveness to its inputs, is tied to its sensitivity to mutation.
 In a gene network each gene sums its inputs, so a mutation in the wiring acts on a gene as an incoming signal does.
-In a one-round Prisoner's Dilemma, networks that receive each other's output as a signal can evolve to cooperate conditionally: they defect back against their own mutants that defect on them.
-Populations that reach cooperation can lose it to mutations that turn a network's response to its own copy into defection.
+In a one-round Prisoner's Dilemma, networks that receive each other's output as a signal can evolve to cooperate conditionally: they defect back against partners that defect on them.
+Populations that reach cooperation can lose it to mutations that turn a network's response into defection.
 Refusing nine in ten of these mutations at random only halved those losses.
 In a non-social task, networks tracked a target.
 With the target held still, so that responding gained nothing, we lowered responsiveness by a constant input to the output genes and a change in their self-activation, set once for every individual.
