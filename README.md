@@ -17,7 +17,7 @@ All figure, table, equation and section numbers below refer to its main text and
 ## Before you start
 
 Every figure and table script reads stored simulation results from a separate data archive, so nothing in the paper can be drawn or printed without it.
-The archive is not yet available (see "To be added" at the end of this file).
+It is archived at Zenodo: https://doi.org/10.5281/zenodo.24504968 (about 5.9 GB).
 
 **Run times and hardware.**
 Once the archive is available, every figure script and most table scripts run in seconds or minutes; the tables below give each one's time.
@@ -224,15 +224,12 @@ MIT License; see `LICENSE`.
 
 Please cite the paper:
 
-Yüksel, Ö. The plasticity that helps gene networks escape the Prisoner's Dilemma also makes them vulnerable to mutation. Journal details: see "To be added".
+Yüksel, Ö. The plasticity that helps gene networks escape the Prisoner's Dilemma also makes them vulnerable to mutation. Journal details will be added on publication.
 
-Code and data: this repository and the data archive (version and DOI: see "To be added").
+Code: this repository, version 1.0.0, archived at https://doi.org/10.5281/zenodo.24505011.
+Data: the data archive, version 1.0.0, https://doi.org/10.5281/zenodo.24504968.
 `CITATION.cff` holds the same information in machine-readable form.
 
 ## Contact
 
 Özgür Yüksel, <ozguryuksel@live.com>, ORCID [0009-0005-7431-8075](https://orcid.org/0009-0005-7431-8075)
-
-## To be added
-
-**[to be added]** The data archive's DOI and size, the journal details of the paper, and the version of this repository.

@@ -10,8 +10,8 @@ authors:
     orcid: "https://orcid.org/0009-0005-7431-8075"
 repository-code: "https://github.com/o-yuksel/grn-cooperation"
 license: MIT
-# version: to be added
-# doi: to be added (archived copy of this repository)
+version: 1.0.0
+doi: 10.5281/zenodo.24505011
 preferred-citation:
   type: article
   title: "The plasticity that helps gene networks escape the Prisoner's Dilemma also makes them vulnerable to mutation"
@@ -20,4 +20,4 @@ preferred-citation:
       given-names: Özgür
       affiliation: "Independent Scholar, Providence, RI 02906"
       orcid: "https://orcid.org/0009-0005-7431-8075"
-  # journal, year, volume and doi: to be added
+  # journal, year, volume and doi: added on publication
