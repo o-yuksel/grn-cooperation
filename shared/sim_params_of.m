@@ -1,0 +1,16 @@
+function sp = sim_params_of(params)
+%SIM_PARAMS_OF  The pair settings that membership_test's simulate_pair route builds from its parameters.
+%
+% Implements : simulate_pair settings with payoffDC 0, sensorIntegrationRate 1 and no external input; used by
+%              scope_checks_gen1 and silent_and_moving_members
+% Inputs     : params (membership_test parameters)
+% Outputs    : sp (simulate_pair settings)
+% Seed       : none
+
+    sp = struct('sensingMode', params.sensingMode, 'hillCoefficient', params.hillCoefficient, ...
+        'discreteOutput', params.discreteOutput, 'michaelisConstant', params.michaelisConstant, ...
+        'degradationRate', params.degradationRate, 'timeStep', params.timeStep, ...
+        'developmentSteps', params.developmentSteps, 'payoffDC', 0, ...
+        'sensorIntegrationRate', 1.0, 'externalSignal1', zeros(4, 1), ...
+        'externalSignal2', zeros(4, 1));
+end

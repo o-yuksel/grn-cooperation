@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper listed under preferred-citation."
+type: software
+title: "The plasticity that helps gene networks escape the Prisoner's Dilemma also makes them vulnerable to mutation"
+authors:
+  - family-names: Yüksel
+    given-names: Özgür
+    affiliation: "Independent Scholar, Providence, RI 02906"
+    email: ozguryuksel@live.com
+    orcid: "https://orcid.org/0009-0005-7431-8075"
+repository-code: "https://github.com/o-yuksel/grn-cooperation"
+license: MIT
+# version: to be added
+# doi: to be added (archived copy of this repository)
+preferred-citation:
+  type: article
+  title: "The plasticity that helps gene networks escape the Prisoner's Dilemma also makes them vulnerable to mutation"
+  authors:
+    - family-names: Yüksel
+      given-names: Özgür
+      affiliation: "Independent Scholar, Providence, RI 02906"
+      orcid: "https://orcid.org/0009-0005-7431-8075"
+  # journal, year, volume and doi: to be added

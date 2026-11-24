@@ -1,0 +1,35 @@
+{
+  "title": "The plasticity that helps gene networks escape the Prisoner's Dilemma also makes them vulnerable to mutation",
+  "upload_type": "software",
+  "description": "MATLAB code behind the paper of this title: simulations of small gene regulatory networks that play the Prisoner's Dilemma or track a target, and the analyses that turn them into the paper's figures, tables and numbers. The stored simulation results that the figure and table scripts read are in the companion data archive (DOI: [TO BE ADDED: data archive DOI]).",
+  "creators": [
+    {
+      "name": "Yüksel, Özgür",
+      "affiliation": "Independent Scholar, Providence, RI 02906",
+      "orcid": "0009-0005-7431-8075"
+    }
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "version": "[TO BE ADDED: version]",
+  "keywords": [
+    "phenotypic plasticity",
+    "gene regulatory networks",
+    "evolution of cooperation",
+    "developmental constraint",
+    "mutation-selection balance"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "[TO BE ADDED: data archive DOI]",
+      "relation": "isSupplementedBy",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "[TO BE ADDED: paper DOI]",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-article"
+    }
+  ],
+  "notes": "Code licence: MIT (LICENSE). Data licence (stored results in the companion data archive): CC BY 4.0."
+}
